@@ -1,0 +1,5 @@
+body {
+    color: white;
+    background: #FCA2BD url("/wallpaper.jpeg");
+    background-size: cover;
+}
